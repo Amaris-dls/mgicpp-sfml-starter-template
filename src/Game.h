@@ -22,6 +22,7 @@ class Game
   
   sf::Texture background_texture;
   sf::Sprite background = sf::Sprite(background_texture);
+  int newint;
 
 };
 
